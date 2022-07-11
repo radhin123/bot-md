@@ -35,12 +35,12 @@ module.exports = {
         global.author = global.data.owner
         //global.author = 'The.sad.boy01'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' ву 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.wm = namabot + ' ву Leviathan.inc'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.colong2 = 'ʙy Leviathan.inc'
         global.kontak2 = [
-        ['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'drakblue3@gmail.com', true],
-        ['6282140373458', 'Raxcel-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['6282373158947', 'Radhin Al Haady', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'delonanakbejok@gmail.com', true],
+        ['6281273778346', 'Leviathan-md', 'Bot WhatsApp', 'Nothing!', true],
         ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
         ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
         ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
@@ -351,10 +351,10 @@ module.exports = {
                     self: false,
                     anon: true,
                     anticall: true,
-                    backup: false,
+                    backup: true,
                     backupDB: 0,
                     groupOnly: false,
-                    jadibot: false,
+                    jadibot: true,
                     status: 0,
                     epe: true,
                     game: true,
